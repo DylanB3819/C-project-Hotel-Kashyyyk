@@ -1,2 +1,3 @@
 # C-project-Hotel-Kashyyyk
-a C project developed in groups in college
+## This was a C project developed in groups in college. The general brief was a hotel that allows guests to check in, book rooms, book tables and check out, while storing relevant information about the bill and guests.
+## This was my first experience of a project. This highlighted the importance of the planning as the structure diagram, flowcharts and pseudocode were very userful when developing the code solutuion. In addition, it was my first experience of coding with others and thus the communication was very important to ensure that the program components were compatible.
